@@ -4,6 +4,6 @@
 3) Run the program through the terminal with the command "python main.py".
 
 ## What is this program doing?
-1) Enter the article you are looking for.
+1) Enter the article what you are looking for.
 2) The program will return you a summary of the term from Wikipedia.
 3) If the article does not exist, the list of articles in which the entered term occurs will be returned.
